@@ -29,3 +29,6 @@ Here's a compilation of my Python Programming projects
 * Explored who made the most pull requests and who contributed the most 
 
 
+## Project 6 - Dr. Semmelweis and the Discovery of Handwashing
+* Carried out Explanotory Data Analysis on the effect of Handwashing vs cases of death
+* Used data visualisation packages (*matplotlib*) to observe the relationship/predictions better 
